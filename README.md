@@ -79,11 +79,13 @@ Open with jupyter-notebook:
 ## Citation
 If you use the code in this repository for your research, please cite the paper as follows:
 ```bibtex
-@inproceedings{nikitin2022nonseparable,
-  title={Non-separable spatio-temporal graph kernels via {SPDE}s},
-  author={Alexander Nikitin and ST John and Arno Solin and Samuel Kaski},
-  booktitle = {Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS)},
-  year={2022}
+@inproceedings{nikitin2022non,
+  title={Non-separable spatio-temporal graph kernels via SPDEs},
+  author={Nikitin, Alexander V and John, ST and Solin, Arno and Kaski, Samuel},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={10640--10660},
+  year={2022},
+  organization={PMLR}
 }
 ```
 
